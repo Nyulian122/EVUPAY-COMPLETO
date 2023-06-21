@@ -138,15 +138,10 @@
     margin-left: 4rem;
     border-radius: 0.6rem;
     background-color: #E6E6E6;
+    background-image: url(../img/Lock.png);
+    background-size: 8.5rem;
+    background-position: center;
 }
-
-.icons img {
-    float: left;
-    position: absolute;
-    margin-top: 0.5rem;
-    margin-left: -0.25rem;
-}
-
 .icons_2 {
     float: left;
     position: absolute;
